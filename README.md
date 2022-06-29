@@ -11,7 +11,7 @@
 >> - lxml (used parser, default html parser can be used)
 >
 
-> ##### Yes my code is horrible to understand but working
+> ##### Yes my code is horrible to understand but ow yes its working
 > - The script goes to the target url making a get request. 
 > - Creates a soup object using  bs4.
 > - Navigate through different data from the target table.
